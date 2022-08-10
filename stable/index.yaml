@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   hello-helm:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-08-10T12:30:50.966272768Z"
+    appVersion: "1.0"
+    created: "2022-08-10T14:40:28.732911359Z"
     description: A Helm chart for Kubernetes
-    digest: b3f491bd637d62fb7670ce5b0f7ed7b17601b0e61334db0446258d0832b00710
+    digest: 7236901b7b40e97296df3850ff5bd1e90d0ce11d401da9a94070f98200f8a842
     icon: https://d36jcksde1wxzq.cloudfront.net/saas-mega/blueFingerprint.png
     name: hello-helm
     type: application
@@ -15,7 +15,7 @@ entries:
   redis:
   - apiVersion: v1
     appVersion: 5.0.7
-    created: "2022-08-10T12:30:50.969463455Z"
+    created: "2022-08-10T14:40:28.745206458Z"
     deprecated: true
     description: DEPRECATED Open source, advanced key-value store. It is often referred
       to as a data structure server since keys can contain strings, hashes, lists,
@@ -33,4 +33,4 @@ entries:
     urls:
     - redis-10.5.7.tgz
     version: 10.5.7
-generated: "2022-08-10T12:30:50.964577602Z"
+generated: "2022-08-10T14:40:28.728267619Z"
